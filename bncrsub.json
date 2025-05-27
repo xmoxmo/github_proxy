@@ -123,5 +123,10 @@
     "type": "sub",
     "remarks": "海盗",
     "subUrl": "bncrSub://3BPeb/Ff4FlBAx372D99jYqhGwoQOGrxKCiQR5zs55eilId65CpPxX2xXZS31qMaXcQDfePq9Y5x/Wr0pSyV41RK6YFEAIYGDRT2YFDJwVVJcB6BG0XbLL1dqGsSGsLv"
+  },
+  {
+    "type": "github",
+    "remarks": "小鱼儿",
+    "subUrl": "https://ghfast.top/https://github.com/siuzha/bncr_plugins"
   }
 ]
